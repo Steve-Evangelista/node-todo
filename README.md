@@ -30,4 +30,4 @@ Happy Todo-ing!
 
 ![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
 
-`Steve was here`
+`Steve branched here`
